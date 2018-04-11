@@ -2,6 +2,8 @@
 
 This repository contains resources for use with the OSS PaaS and DevOps workshop, including the starter MERN app, code for Azure Functions, scripts for seeding data into the MongoDB database, as well as exporting data, and an ARM template for deploying the Lab virtual machine (VM) to Azure.
 
+Test update.
+
 ## LabVM
 
 To get started, click the Deploy to Azure link below. This will provision a fully configured Linux Lab VM, used as a development machine for the OSS PaaS and DevOps workshop. This should be completed before your workshop.
