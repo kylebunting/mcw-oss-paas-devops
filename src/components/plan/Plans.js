@@ -58,7 +58,7 @@ export default class Plans extends Component {
 
         return (
             <div class="container">
-                <h1>Final header change</h1>
+                <h1>My header</h1>
                 <Grid>
                     <div class="plans">
                         <Row>{planCatalog}</Row>
